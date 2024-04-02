@@ -44,12 +44,20 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+<a href="URL_TO_GOOGLE_CERTIFICATION_PAGE_HERE">
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certification-007ACC?&style=for-the-badge&logo=google&logoColor=white" />
+</a><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="URL_TO_BLT1_CERTIFICATION_PAGE_HERE">
+  <img src="https://img.shields.io/badge/-Blue%20Team%201%20Certification-0052CC?&style=for-the-badge" />
+</a>
+<a href="URL_TO_CCNA_CERTIFICATION_PAGE_HERE">
+  <img src="https://img.shields.io/badge/-CCNA-0078D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+</a>
+    <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <a href="URL_TO_SC-200_CERTIFICATION_PAGE_HERE">
+  <img src="https://img.shields.io/badge/-Microsoft%20SC--200-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
+  <div>
 
 ## Projects
 - Detection Lab
