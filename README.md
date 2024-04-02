@@ -2,7 +2,7 @@
 
 # Portfolio
 
-Hi, I'm ALaa and this is my SOC Analest Portfolio. I am currently seeking a challenging position that leverages my [IDS Monitoring and Triage
+Hi, I'm ALaa and this is my SOC Analyst Portfolio. I am currently seeking a challenging position that leverages my [IDS Monitoring and Triage
 {IOC Monitoring
 Log Analysis
 Self-Motivated
