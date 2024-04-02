@@ -1,18 +1,7 @@
 ## [Alaa Ghazi] Porfolio
 
 # Portfolio
-
-Hi, I'm ALaa and this is my SOC Analyst Portfolio. I am currently seeking a challenging position that leverages my [IDS Monitoring and Triage
-{IOC Monitoring
-Log Analysis
-Self-Motivated
-Excellent Communication
-Computer Networking
-Oprating System
-Attention to Details
-Detactive reasoning skills]and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
-
-
+Self motivated individual with an Associate Degree in Computer Science and a strong foundation in cybersecurity principles. Certified in Google Cybersecurity, CompTIA Security+, BTL1, CCNA, CCD, and Microsoft SC-200. Eager to leverage theoretical knowledge and practical skills gained through education and certifications to launch a career as a SOC Analyst. Motivated to contribute to a dynamic cybersecurity team while continuously expanding expertise and staying abreast of industry best practices.
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
